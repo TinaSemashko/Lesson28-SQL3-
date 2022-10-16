@@ -51,3 +51,4 @@ ON BooksTransactions (ProviderId);
 
 CREATE INDEX idx_customer
 ON BooksTransactions (CustomerId); 
+--checked
